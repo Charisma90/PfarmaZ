@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+#produse {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.produs {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    width: 200px;
+}
